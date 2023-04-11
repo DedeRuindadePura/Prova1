@@ -25,4 +25,4 @@ while (true) {
         echo trim($s) . PHP_EOL;
     }
 }
-?>s
+?>
